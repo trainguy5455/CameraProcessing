@@ -1,0 +1,27 @@
+{
+  "name": "cameraprocessing",
+  "version": "1.0.0",
+  "description": "Stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trainguy5455/CameraProcessing.git"
+  },
+  "keywords": [
+    "camera",
+    "camera",
+    "camera"
+  ],
+  "author": "me and you",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trainguy5455/CameraProcessing/issues"
+  },
+  "homepage": "https://github.com/trainguy5455/CameraProcessing#readme",
+  "dependencies": {
+    "opencv4nodejs": "^4.14.1"
+  }
+}
